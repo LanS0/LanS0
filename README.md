@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there my Name is Michael Alan people usually call me Lan
+
+My Pronouns : He/Him
+
+I’m currently learning Go Language
+
+⚡ Fun fact: 
+- I love to Play Dota 2
+- Someday i Promise my self to create " THE " Game
 
 <!--
 **LanS0/LanS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
