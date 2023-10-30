@@ -1,12 +1,15 @@
-### Hi there my Name is Michael Alan people usually call me Lan
+### Hi there my Name is Michael Alan people usually call me Mike or Lan ###
 
-My Pronouns : He/Him
+My Pronouns : He / Him
 
-I’m currently learning Go Language
+I’m Student at Bina Sarana Informatika
 
 ⚡ Fun fact: 
-- I love to Play Dota 2
-- Someday i Promise my self to create " THE " Game
+- I love to play Dota 2
+- Someday i promise my self to create " THE " Game
+
+📫 How to reach me: 
+- <div href=”https://www.instagram.com/michael_alan01/”>Instagram</div>
 
 <!--
 **LanS0/LanS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
