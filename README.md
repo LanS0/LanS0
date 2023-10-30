@@ -9,7 +9,7 @@ I’m Student at Bina Sarana Informatika
 - Someday i promise my self to create " THE " Game
 
 📫 How to reach me: 
-- <a href=”https://www.instagram.com/michael_alan01/”>
+- [Instagram](https://www.instagram.com/michael_alan01/)
 
 <!--
 **LanS0/LanS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
