@@ -5,8 +5,7 @@ My Pronouns : He / Him
 I’m Student at Bina Sarana Informatika
 
 ⚡ Fun fact: 
-- I love to play Dota 2
-- Someday i promise my self to create " THE " Game
+I promise my self someday i will Create "THE" Game
 
 📫 How to reach me: 
 - [Instagram](https://www.instagram.com/michael_alan01/)
