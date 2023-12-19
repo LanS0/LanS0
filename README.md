@@ -5,7 +5,7 @@ My Pronouns : He / Him
 I’m Student at Bina Sarana Informatika
 
 ⚡ Fun fact: 
-I promise my self someday i will Create "THE" Game
+I had a dream to making a Game
 
 📫 How to reach me: 
 - [Instagram](https://www.instagram.com/michael_alan01/)
